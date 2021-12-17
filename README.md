@@ -28,25 +28,30 @@ I create spaces for crypto enthusiasts, including NFTs, tokens, and DAOs.  I'm a
  
 ### About Handsome Vikings
 
-My most exciting project to date is the Handsome Vikings.  I'm a co-founder and one of the main developers behind the project, as it was inspired by 
+My most exciting project to date is Handsome Vikings.  I'm a co-founder and one of the main developers behind the project.  
+
+The dev team will be releasing some more information towards January, and I'll post it here once we've announced.
+
+</details>
+
+Sign up for the [Handsome Vikings newsletter](https://e8871917.sibforms.com/serve/MUIEANYaYNHozsJNVd6WBUTvtAtJKk3bKTpFJ8a8j6hbG8QOoNL-UQUkCjaMojNNAo9fKqnpMMLTzx-30S7AI0yzxHRuHdMzhFte7T5eJwbb3HlBzqb5d5kVbq-xh2UhNJ2sg7orqIpipXNeCxaRM56iySMSmooZkkg4USu4m8F4kXUfqBFV19U51UP_p-W6VDIeqra9tpbY0OL3)
 
  ---
 
 ### More About Me
 
-I've been in the financial services industry for about 14 years and constantly work with great teams to bring financial awareness in a variety of ways. [Sheridan Wealth Advisors](https://www.sheridanadvisors.com)
+I have been in the insurance and financial industry for over 13 years, specializing in high level reviews, analysis, and sales.  I joined the SWA team in 2018 team and have performed a variety of critical functions, including Digital Marketing Management, Analysis in case design and the creation of Forensic Reviews® at [Sheridan Wealth Advisors.](https://www.sheridanadvisors.com) 
+
+Today, we also provide complimentary assistance for business owners beginning to plan an exit strategy for the sale of a company.
+
+We supply companies with assistance in filing for the federal government’s complicated Employee Retention Credits. That can provide needed and substantial cash for businesses harmed by government required Covid-19 rules lockdowns.
+
+Outgrowing advisors is an issue successful business owners run  into periodically. We provide a complimentary service  that introduces them to senior partners at major national law, accounting, and wealth management firms.
 
 Recently within the past 2 years, I've been digging deeper into FinTech and the blockchains where I really enjoy **building** new things using **JavaScript** and **Solidity**. 
 
 <details>
- <summary><strong>Some of my favorite repo forks</strong></summary>
- <a href="https://github.com/Groggy-Cheesecake/assets"><img width="400" src="Shout Out!"></a>
- <a href="https://github.com/Groggy-Cheesecake/hashlips_art_engine"><img width="400" src="Thank you HashLips!"></a>
+ <summary><strong>A couple of my favorite repo's</strong></summary>
+ <a href="https://github.com/Groggy-Cheesecake/assets"><img width="400" src="https://img1.wsimg.com/isteam/ip/1b6c2d8f-3899-43e2-9b55-7ea1d725c9f5/Blockchain%20Assets.png/:/rs=w:1440,h:1440"></a>
+ <a href="https://github.com/Groggy-Cheesecake/hashlips_art_engine"><img width="400" src="https://img1.wsimg.com/isteam/ip/1b6c2d8f-3899-43e2-9b55-7ea1d725c9f5/Hashlips_Art_Engine-MainJS.png/:/rs=w:1440,h:1440"></a>
  
-</details>
-
-Sign up for the [Handsome Vikings newsletter](https://e8871917.sibforms.com/serve/MUIEANYaYNHozsJNVd6WBUTvtAtJKk3bKTpFJ8a8j6hbG8QOoNL-UQUkCjaMojNNAo9fKqnpMMLTzx-30S7AI0yzxHRuHdMzhFte7T5eJwbb3HlBzqb5d5kVbq-xh2UhNJ2sg7orqIpipXNeCxaRM56iySMSmooZkkg4USu4m8F4kXUfqBFV19U51UP_p-W6VDIeqra9tpbY0OL3)
-
----
-
-Thanks for stopping by! 
