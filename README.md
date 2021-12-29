@@ -14,7 +14,7 @@ Welcome and thank you for stopping by 👋,
 
 - 👋 I’m David aka @Groggy-Cheesecake
 - 👀 I’m interested in the crypto space and coding
-- 🌱 I’m currently learning rust and smart contracts
+- 🌱 I’m currently learning more about rust and smart contracts
 - 💞️ I’m looking to collaborate on any crypto projects and offer any assistance
 - 📫 dave@handsomeviking.com
 
