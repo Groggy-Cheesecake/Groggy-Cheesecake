@@ -1,0 +1,51 @@
+// SPDX-License-Identifier: MIT
+
+pragma solidity >=0.7.0 <0.9.0;
+
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+
+contract VAToken is ERC721, Ownable {
+      constructor(string memory _name, string memory _symbol)
+        ERC721(_name, _symbol)
+    {}
+    
+    uint256 COUNTER;
+
+    struct VA {
+        string _name;
+        uint256 id;
+        uint256 dna;
+        uint8 level;
+        uint8 rarity;
+    }
+
+    VA[] public VAs;
+
+    event NewVA(address indexed owner, uint256 id, uint256 dna);
+
+    // Helpers
+    function _genRandomDna(string memory _str) internal pure returns(uint256) {
+        uint256 randomNum = uint256(keccak256(abi.encodePacked(_str)));
+        return randomNum % 10**16;
+    }
+
+    // Creation
+    function _createVA(string memory _name, uint256 _dna) internal{
+        VA memory newVA = VA(_name, COUNTER, _dna, 1, 50);
+        VAs.push(newVA);
+        _safeMint(msg.sender, COUNTER);
+        emit NewVA(msg.sender, COUNTER, _dna);
+        COUNTER++;
+    }
+
+    function createRandomVA(string memory _name) public {
+        uint256 randDna = _genRandomDna(_name);
+        _createVA(_name, randDna);
+    }
+
+    // Getters
+    function getVAs() public view returns(VA[] memory){
+        return VAs;
+    }
+}
