@@ -14,11 +14,11 @@ Welcome and thank you for stopping by 👋,
 
 - 👋 I’m David aka @Groggy-Cheesecake
 - 👀 I’m interested in the crypto space and coding
-- 🌱 I’m currently learning more about rust and smart contracts
+- 🌱 I’m currently developing in the metaverse
 - 💞️ I’m looking to collaborate on any crypto projects and offer any assistance
 - 📫 dave@handsomeviking.com
 
-I create spaces for crypto enthusiasts, including NFTs, tokens, and DAOs.  I'm a huge supporter of a lot of projects in this new space and would love to chat about it!
+I create spaces for crypto enthusiasts, including NFTs, tokens, DAOs and Spatial Galleries.  I'm a huge supporter of a lot of projects in this new space and would love to chat about it!
 
   ---
  
@@ -28,9 +28,9 @@ I create spaces for crypto enthusiasts, including NFTs, tokens, and DAOs.  I'm a
  
 ### About Handsome Vikings
 
-My most exciting project to date is Handsome Vikings.  I'm a co-founder and one of the main developers behind the project.  
+My most exciting project to date is Viking Apes.  I'm a co-founder and one of the main developers behind the project.  
 
-The dev team will be releasing some more information towards January, and I'll post it here once we've announced.
+The dev team will be announcing a launch date sometime towards April, and I'll post it here once we've announced.
 
 </details>
 
@@ -40,11 +40,11 @@ Sign up for the [Handsome Vikings newsletter](https://e8871917.sibforms.com/serv
 
 ### More About Me
 
-I have been in the insurance and financial industry for over 13 years, specializing in high level reviews, analysis, and sales.  I joined the SWA team in 2018 team and have performed a variety of critical functions, including Digital Marketing Management, Analysis in case design and the creation of Forensic Reviews® at [Sheridan Wealth Advisors.](https://www.sheridanadvisors.com) 
+I have been in the insurance and financial industry for over 14 years, specializing in high level reviews, analysis, and sales.  I joined the SWA team in 2018 team and have performed a variety of critical functions, including Digital Marketing Management, Analysis in case design and the creation of Forensic Reviews® at [Sheridan Wealth Advisors.](https://www.sheridanadvisors.com) 
 
 Today, we also provide complimentary assistance for business owners beginning to plan an exit strategy for the sale of a company.
 
-We supply companies with assistance in filing for the federal government’s complicated Employee Retention Credits. That can provide needed and substantial cash for businesses harmed by government required Covid-19 rules lockdowns.
+We supply companies with assistance in filing for the federal government’s complicated Employee Retention Credits. That can provide needed and substantial cash for businesses harmed by government required Covid-19 rules lockdowns.  To Date we've helped over 1,600 business owners, totaling more than $125,000,000 in benefits to them.
 
 Outgrowing advisors is an issue successful business owners run  into periodically. We provide a complimentary service  that introduces them to senior partners at major national law, accounting, and wealth management firms.
 
