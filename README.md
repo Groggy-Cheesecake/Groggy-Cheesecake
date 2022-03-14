@@ -26,7 +26,7 @@ I create spaces for crypto enthusiasts, including NFTs, tokens, DAOs and Spatial
   <img width="250" align='left' src="https://img1.wsimg.com/isteam/ip/1b6c2d8f-3899-43e2-9b55-7ea1d725c9f5/HV-cycle-2.gif/:/rs=w:1440,h:1440">
 </p>
  
-### About Handsome Vikings
+### About Viking Apes
 
 My most exciting project to date is Viking Apes.  I'm a co-founder and one of the main developers behind the project.  
 
