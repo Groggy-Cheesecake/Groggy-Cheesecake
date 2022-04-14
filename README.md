@@ -1,5 +1,3 @@
-# [![Groggy Cheesecake header](https://img1.wsimg.com/isteam/ip/1b6c2d8f-3899-43e2-9b55-7ea1d725c9f5/github-banner_DC_HV-Background.png/:/rs=w:1440,h:1440)](https://www.handsomevikings.com/)
-
 <p>
   <a href="https://handsome-vikings.gitbook.io/handsome-vikings/"><img width="150" align='right' src="https://img1.wsimg.com/isteam/ip/1b6c2d8f-3899-43e2-9b55-7ea1d725c9f5/Gitbook_Handsome%20Vikings_Pre-Release.png/:/rs=w:1440,h:1440"></a>
 </p>
